@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>3425E0EC-5C59-4B4E-A4FC-9E95EDDCAA07</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3425E0EC-5C59-4B4E-A4FC-9E95EDDCAA07.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>tech_stack project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tech_stack</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project tech_stack with scheme tech_stack and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568670982.21499205</real>
+			<key>timeStoppedRecording</key>
+			<real>568671216.83406198</real>
+			<key>title</key>
+			<string>Building project tech_stack with scheme tech_stack and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3425E0EC-5C59-4B4E-A4FC-9E95EDDCAA07</string>
+		</dict>
+		<key>6E867A45-EEFD-4328-8200-FC7582946632</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E867A45-EEFD-4328-8200-FC7582946632.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>tech_stack project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tech_stack</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project tech_stack with scheme tech_stack and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568671433.88915706</real>
+			<key>timeStoppedRecording</key>
+			<real>568671437.20611203</real>
+			<key>title</key>
+			<string>Building project tech_stack with scheme tech_stack and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6E867A45-EEFD-4328-8200-FC7582946632</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

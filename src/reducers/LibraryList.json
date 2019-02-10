@@ -1,0 +1,47 @@
+[
+{
+  "id": 0,
+"title": "Introduction ",
+"description": "Be Strong, Be Courageous. This book is written to reach every woman and empower you to tap in, hold on to your INNER STRENGTH. Yes, we are strong as women, we are gifted and possess power only if we can tap in. How can you tap in, tap into what? Just keep reading and hopefully you discover yourself along these lines."
+},
+{
+  "id": 1,
+"title": "Chapter 1: Decision Making",
+"description": "A young lady name Esther was born and raised in Nigeria, West Africa. She came from an average family even average in social means not bad there was another status of her family it was broken like many families today. Relocated from west Africa to America at the age of 10years old. What an exciting day it was for Esther landing and breathing the New York smell which to her, this is what America smells like, it was perfect and, on her birthday, so yes it was extra perfect."
+},
+{
+  "id": 2,
+"title": "Chapter 2: Power of Choices",
+"description": "Coming from a broken and dysfunctional background tapping in was about to be a bumpy rollercoaster ride. Was she up for the this? No but determination has a way of winning in the end. Esther began a series of different stages that life had to offer some good, some bad, some ugly. Esther realized quickly she had choices to make daily that will count and affect her and this little baby boy so in the mist of chaos she began tapping into HER POWER of CHOICES."
+},
+{
+  "id": 3,
+"title": "Chapter 3",
+"description": "React-Redux is the official set of bindings between the React and Redux libraries. With this library you can keep your views and data in sync."
+},
+{
+  "id": 4,
+"title": "Chapter 4",
+"description": "A modern JavaScript utility library delivering modularity, performance, & extras. Lodash is released under the MIT license & supports modern environments."
+},
+{
+  "id": 5,
+"title": "Chapter 5",
+"description": "Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met."
+},
+{
+  "id": 6,
+"title": "Chapter 6",
+"description": "ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines."
+},
+{
+  "id": 7,
+"title": "Chapter 7",
+"description": "Babel has support for the latest version of JavaScript through syntax transformers. These plugins allow you to use new syntax, right now without waiting for browser support."
+},
+{
+  "id": 8,
+"title": "Chapter 8",
+"description": "Promise based HTTP client for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
+}
+]

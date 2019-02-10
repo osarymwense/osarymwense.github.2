@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/osasgaius/tech_stack/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
+  /Users/osasgaius/tech_stack/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/osasgaius/tech_stack/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h
